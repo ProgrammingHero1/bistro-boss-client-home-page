@@ -18,6 +18,6 @@ Bistro Boss is a comprehensive restaurant management website built using the MER
 
 ## Getting Started
 
-You can clone the repo and started analyze the code 
+You can clone the repo and started analyze the code.
 
 
